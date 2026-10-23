@@ -1,3 +1,5 @@
+![Banner image](banner.jpeg)
+
 # Organism
 
 A minimal self-replicating Java program for experimenting with artificial life.
