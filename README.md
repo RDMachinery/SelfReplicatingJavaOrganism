@@ -127,3 +127,8 @@ Edit the four genes only if you want a different founder. Each must stay on its 
 - **Active reproduction.** Have children launched automatically, with the limits described under Safety.
 - **True self-replication.** Rewrite the organism as a quine that rebuilds its source from an internal description instead of reading its own file, in the spirit of von Neumann's self-reproducing automata.
 - **Phylogeny analysis.** Load `lineage.csv` into a spreadsheet or graph tool to study branching and generation depth.
+
+## Further Reading
+
+https://medium.com/@mariogianota/one-small-file-six-big-ideas-teaching-programming-with-a-self-replicating-java-organism-435c1a7301e3
+
