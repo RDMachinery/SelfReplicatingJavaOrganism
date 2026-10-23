@@ -25,6 +25,8 @@ import javax.tools.ToolProvider;
  *
  * Reproduction is passive: offspring are created but never launched automatically,
  * so the population only grows when you choose to run an organism.
+ *
+ * @author Mario Gianota <mariogianota@protonmail.com>
  */
 class Organism {
 
